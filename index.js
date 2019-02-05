@@ -15,18 +15,18 @@ function logWhisper(string) {
 }
 
 
-var uppercase = 'HELLO';
-var lowercase = 'hello';
-var mixedCase = 'Hello';
+// var uppercase = 'HELLO';
+// var lowercase = 'hello';
+// var mixedCase = 'Hello';
 
-if (uppercase === uppercase.toUpperCase()) {
-  return 'YES INDEED!';
-} 
+// if (uppercase === uppercase.toUpperCase()) {
+//   return 'YES INDEED!';
+// } 
 
-if (lowercase === lowercase.toLowerCase()) {
-  return `I can't hear you!`;
-}
+// if (lowercase === lowercase.toLowerCase()) {
+//   return `I can't hear you!`;
+// }
 
-if (mixedCase === mixedCase.toUpperCase()) {
-  return 'I love you, too.'
-}
+// if (mixedCase === mixedCase.toUpperCase()) {
+//   return 'I love you, too.'
+// }
